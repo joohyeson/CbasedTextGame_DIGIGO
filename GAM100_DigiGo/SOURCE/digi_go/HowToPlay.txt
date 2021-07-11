@@ -1,0 +1,25 @@
+
+
+
+
+
+                                                                 _            ___ _             
+                                             /\  /\_____      __ | |_ ___     / _ \ | __ _ _   _ 
+                                            / /_/ / _ \ \ /\ / / | __/ _ \   / /_)/ |/ _` | | | |
+                                           / __  / (_) \ V  V /  | || (_) | / ___/| | (_| | |_| |
+                                           \/ /_/ \___/ \_/\_/    \__\___/  \/    |_|\__,_|\__, |
+                                                                                           |___/ 
+
+
+
+                                             1. Use left and right key to move left and right.
+
+                                             2. Get a Grade A(3.0), B(4.0)
+
+                                             3. There is 5 different grade in this game
+                                                 A : 4.0    B : 3.0   C : 2.0   D : 1.0   F : 0.0
+                                               (A+, B+.... if score has '+' it will be +0.5 point)
+
+                                             4. You have to get an average 3.0 to pass the semester in Korea.
+
+                                             5. If you don't you will fail the game.

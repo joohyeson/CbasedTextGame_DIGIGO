@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Drawing">
+      <UniqueIdentifier>{fb43059a-5011-49ca-a111-d7c89341f210}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameState">
+      <UniqueIdentifier>{ceb564cf-1004-4ca9-af71-8f32e8ef2b05}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawMapFunction.c">
+      <Filter>Source Files\Drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawFace.c">
+      <Filter>Source Files\Drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="Transitions.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStateControl.c">
+      <Filter>Source Files\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="StartScreenFunction.c">
+      <Filter>Source Files\Drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="StartGame.c">
+      <Filter>Source Files\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="GamePlay.c">
+      <Filter>Source Files\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="GradeCalculateFunction.c">
+      <Filter>Source Files\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="GradeGenerateFunction.c">
+      <Filter>Source Files\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="TimeAndGrade.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MainmenuDetail.c">
+      <Filter>Source Files\Drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="color.c">
+      <Filter>Source Files\Drawing</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEnd.c">
+      <Filter>Source Files\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInfo.c">
+      <Filter>Source Files\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="PlaySound.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DrawFace.h">
+      <Filter>Source Files\Drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawMapFunction.h">
+      <Filter>Source Files\Drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStateControl.h">
+      <Filter>Source Files\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="StartScreenFunction.h">
+      <Filter>Source Files\Drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="GamePlay.h">
+      <Filter>Source Files\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="StartGame.h">
+      <Filter>Source Files\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="GradeCalculateFunction.h">
+      <Filter>Source Files\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Transitions.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TimeAndGrade.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GradeGenerateFunction.h">
+      <Filter>Source Files\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="MainmenuDetail.h">
+      <Filter>Source Files\Drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="color.h">
+      <Filter>Source Files\Drawing</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEnd.h">
+      <Filter>Source Files\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInfo.h">
+      <Filter>Source Files\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="PlaySound.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
